@@ -20,7 +20,7 @@ match osztalyzat:
         szorgalom = "jó"
     case 5:
         szorgalom = "példás"
-    case other:
+    case _:
         szorgalom = "ez nem egy osztályzat"
 
-print("A szorgalom: " + szorgalom + "!")
+print(f"A szorgalom: {szorgalom}!")
