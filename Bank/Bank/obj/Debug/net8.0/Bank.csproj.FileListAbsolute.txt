@@ -1,0 +1,15 @@
+C:\Users\Tanulo\Documents\GitHub\Y.N\Bank\Bank\bin\Debug\net8.0\Bank.exe
+C:\Users\Tanulo\Documents\GitHub\Y.N\Bank\Bank\bin\Debug\net8.0\Bank.deps.json
+C:\Users\Tanulo\Documents\GitHub\Y.N\Bank\Bank\bin\Debug\net8.0\Bank.runtimeconfig.json
+C:\Users\Tanulo\Documents\GitHub\Y.N\Bank\Bank\bin\Debug\net8.0\Bank.dll
+C:\Users\Tanulo\Documents\GitHub\Y.N\Bank\Bank\bin\Debug\net8.0\Bank.pdb
+C:\Users\Tanulo\Documents\GitHub\Y.N\Bank\Bank\obj\Debug\net8.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanulo\Documents\GitHub\Y.N\Bank\Bank\obj\Debug\net8.0\Bank.AssemblyInfoInputs.cache
+C:\Users\Tanulo\Documents\GitHub\Y.N\Bank\Bank\obj\Debug\net8.0\Bank.AssemblyInfo.cs
+C:\Users\Tanulo\Documents\GitHub\Y.N\Bank\Bank\obj\Debug\net8.0\Bank.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\Documents\GitHub\Y.N\Bank\Bank\obj\Debug\net8.0\Bank.sourcelink.json
+C:\Users\Tanulo\Documents\GitHub\Y.N\Bank\Bank\obj\Debug\net8.0\Bank.dll
+C:\Users\Tanulo\Documents\GitHub\Y.N\Bank\Bank\obj\Debug\net8.0\refint\Bank.dll
+C:\Users\Tanulo\Documents\GitHub\Y.N\Bank\Bank\obj\Debug\net8.0\Bank.pdb
+C:\Users\Tanulo\Documents\GitHub\Y.N\Bank\Bank\obj\Debug\net8.0\Bank.genruntimeconfig.cache
+C:\Users\Tanulo\Documents\GitHub\Y.N\Bank\Bank\obj\Debug\net8.0\ref\Bank.dll
