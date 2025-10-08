@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Szam-hossz")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6e12b1a8c054a906f51a357746a89f5e57333a3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be44e8eec2f4d30ab2b3cc051ef5f71ad303f697")]
 [assembly: System.Reflection.AssemblyProductAttribute("Szam-hossz")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Szam-hossz")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

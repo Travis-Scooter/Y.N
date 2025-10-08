@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Tanulo\\Documents\\GitHub\\Y.N\\25.10.08. aaf\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D0507E26-CF81-4192-933A-75F68C92EFB3}|Oszto-Print\\Oszto-Print.csproj|c:\\users\\tanulo\\documents\\github\\y.n\\25.10.08. aaf\\oszto-print\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0507E26-CF81-4192-933A-75F68C92EFB3}|Oszto-Print\\Oszto-Print.csproj|solutionrelative:oszto-print\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FF722201-B2FF-4D1C-A213-FE858CD2D0C2}|TAJ-checker\\TAJ-checker.csproj|c:\\users\\tanulo\\documents\\github\\y.n\\25.10.08. aaf\\taj-checker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF722201-B2FF-4D1C-A213-FE858CD2D0C2}|TAJ-checker\\TAJ-checker.csproj|solutionrelative:taj-checker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AB6C608-E13B-439C-B95D-7CA86817415E}|25.10.08. aaf\\25.10.08. aaf.csproj|c:\\users\\tanulo\\documents\\github\\y.n\\25.10.08. aaf\\25.10.08. aaf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AB6C608-E13B-439C-B95D-7CA86817415E}|25.10.08. aaf\\25.10.08. aaf.csproj|solutionrelative:25.10.08. aaf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2AB6C608-E13B-439C-B95D-7CA86817415E}|25.10.08. aaf\\Szam-hossz.csproj|c:\\users\\tanulo\\documents\\github\\y.n\\25.10.08. aaf\\25.10.08. aaf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AB6C608-E13B-439C-B95D-7CA86817415E}|25.10.08. aaf\\Szam-hossz.csproj|solutionrelative:25.10.08. aaf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,18 +32,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tanulo\\Documents\\GitHub\\Y.N\\25.10.08. aaf\\Oszto-Print\\Program.cs",
+              "RelativeDocumentMoniker": "Oszto-Print\\Program.cs",
+              "ToolTip": "C:\\Users\\Tanulo\\Documents\\GitHub\\Y.N\\25.10.08. aaf\\Oszto-Print\\Program.cs",
+              "RelativeToolTip": "Oszto-Print\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T09:30:56.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Tanulo\\Documents\\GitHub\\Y.N\\25.10.08. aaf\\TAJ-checker\\Program.cs",
               "RelativeDocumentMoniker": "TAJ-checker\\Program.cs",
               "ToolTip": "C:\\Users\\Tanulo\\Documents\\GitHub\\Y.N\\25.10.08. aaf\\TAJ-checker\\Program.cs",
               "RelativeToolTip": "TAJ-checker\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAADwvxsAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-08T08:02:17.214Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Tanulo\\Documents\\GitHub\\Y.N\\25.10.08. aaf\\25.10.08. aaf\\Program.cs",
               "RelativeDocumentMoniker": "25.10.08. aaf\\Program.cs",
@@ -47,8 +64,7 @@
               "RelativeToolTip": "25.10.08. aaf\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T07:45:02.463Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-08T07:45:02.463Z"
             }
           ]
         }
