@@ -1,0 +1,15 @@
+C:\Users\Tanulo\Documents\GitHub\Y.N\25.10.08. aaf\TAJ-checker\bin\Debug\net8.0\TAJ-checker.exe
+C:\Users\Tanulo\Documents\GitHub\Y.N\25.10.08. aaf\TAJ-checker\bin\Debug\net8.0\TAJ-checker.deps.json
+C:\Users\Tanulo\Documents\GitHub\Y.N\25.10.08. aaf\TAJ-checker\bin\Debug\net8.0\TAJ-checker.runtimeconfig.json
+C:\Users\Tanulo\Documents\GitHub\Y.N\25.10.08. aaf\TAJ-checker\bin\Debug\net8.0\TAJ-checker.dll
+C:\Users\Tanulo\Documents\GitHub\Y.N\25.10.08. aaf\TAJ-checker\bin\Debug\net8.0\TAJ-checker.pdb
+C:\Users\Tanulo\Documents\GitHub\Y.N\25.10.08. aaf\TAJ-checker\obj\Debug\net8.0\TAJ-checker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanulo\Documents\GitHub\Y.N\25.10.08. aaf\TAJ-checker\obj\Debug\net8.0\TAJ-checker.AssemblyInfoInputs.cache
+C:\Users\Tanulo\Documents\GitHub\Y.N\25.10.08. aaf\TAJ-checker\obj\Debug\net8.0\TAJ-checker.AssemblyInfo.cs
+C:\Users\Tanulo\Documents\GitHub\Y.N\25.10.08. aaf\TAJ-checker\obj\Debug\net8.0\TAJ-checker.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\Documents\GitHub\Y.N\25.10.08. aaf\TAJ-checker\obj\Debug\net8.0\TAJ-checker.sourcelink.json
+C:\Users\Tanulo\Documents\GitHub\Y.N\25.10.08. aaf\TAJ-checker\obj\Debug\net8.0\TAJ-checker.dll
+C:\Users\Tanulo\Documents\GitHub\Y.N\25.10.08. aaf\TAJ-checker\obj\Debug\net8.0\refint\TAJ-checker.dll
+C:\Users\Tanulo\Documents\GitHub\Y.N\25.10.08. aaf\TAJ-checker\obj\Debug\net8.0\TAJ-checker.pdb
+C:\Users\Tanulo\Documents\GitHub\Y.N\25.10.08. aaf\TAJ-checker\obj\Debug\net8.0\TAJ-checker.genruntimeconfig.cache
+C:\Users\Tanulo\Documents\GitHub\Y.N\25.10.08. aaf\TAJ-checker\obj\Debug\net8.0\ref\TAJ-checker.dll

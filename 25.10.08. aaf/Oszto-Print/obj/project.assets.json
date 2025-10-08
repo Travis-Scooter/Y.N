@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tanulo\\Documents\\GitHub\\Y.N\\25.10.08. aaf\\25.10.08. aaf\\Szam-hossz.csproj",
-      "projectName": "Szam-hossz",
-      "projectPath": "C:\\Users\\Tanulo\\Documents\\GitHub\\Y.N\\25.10.08. aaf\\25.10.08. aaf\\Szam-hossz.csproj",
+      "projectUniqueName": "C:\\Users\\Tanulo\\Documents\\GitHub\\Y.N\\25.10.08. aaf\\Oszto-Print\\Oszto-Print.csproj",
+      "projectName": "Oszto-Print",
+      "projectPath": "C:\\Users\\Tanulo\\Documents\\GitHub\\Y.N\\25.10.08. aaf\\Oszto-Print\\Oszto-Print.csproj",
       "packagesPath": "C:\\Users\\Tanulo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tanulo\\Documents\\GitHub\\Y.N\\25.10.08. aaf\\25.10.08. aaf\\obj\\",
+      "outputPath": "C:\\Users\\Tanulo\\Documents\\GitHub\\Y.N\\25.10.08. aaf\\Oszto-Print\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

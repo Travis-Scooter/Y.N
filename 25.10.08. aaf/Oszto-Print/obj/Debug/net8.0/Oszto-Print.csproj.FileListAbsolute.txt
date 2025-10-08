@@ -1,0 +1,15 @@
+C:\Users\Tanulo\Documents\GitHub\Y.N\25.10.08. aaf\Oszto-Print\bin\Debug\net8.0\Oszto-Print.exe
+C:\Users\Tanulo\Documents\GitHub\Y.N\25.10.08. aaf\Oszto-Print\bin\Debug\net8.0\Oszto-Print.deps.json
+C:\Users\Tanulo\Documents\GitHub\Y.N\25.10.08. aaf\Oszto-Print\bin\Debug\net8.0\Oszto-Print.runtimeconfig.json
+C:\Users\Tanulo\Documents\GitHub\Y.N\25.10.08. aaf\Oszto-Print\bin\Debug\net8.0\Oszto-Print.dll
+C:\Users\Tanulo\Documents\GitHub\Y.N\25.10.08. aaf\Oszto-Print\bin\Debug\net8.0\Oszto-Print.pdb
+C:\Users\Tanulo\Documents\GitHub\Y.N\25.10.08. aaf\Oszto-Print\obj\Debug\net8.0\Oszto-Print.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanulo\Documents\GitHub\Y.N\25.10.08. aaf\Oszto-Print\obj\Debug\net8.0\Oszto-Print.AssemblyInfoInputs.cache
+C:\Users\Tanulo\Documents\GitHub\Y.N\25.10.08. aaf\Oszto-Print\obj\Debug\net8.0\Oszto-Print.AssemblyInfo.cs
+C:\Users\Tanulo\Documents\GitHub\Y.N\25.10.08. aaf\Oszto-Print\obj\Debug\net8.0\Oszto-Print.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\Documents\GitHub\Y.N\25.10.08. aaf\Oszto-Print\obj\Debug\net8.0\Oszto-Print.sourcelink.json
+C:\Users\Tanulo\Documents\GitHub\Y.N\25.10.08. aaf\Oszto-Print\obj\Debug\net8.0\Oszto-Print.dll
+C:\Users\Tanulo\Documents\GitHub\Y.N\25.10.08. aaf\Oszto-Print\obj\Debug\net8.0\refint\Oszto-Print.dll
+C:\Users\Tanulo\Documents\GitHub\Y.N\25.10.08. aaf\Oszto-Print\obj\Debug\net8.0\Oszto-Print.pdb
+C:\Users\Tanulo\Documents\GitHub\Y.N\25.10.08. aaf\Oszto-Print\obj\Debug\net8.0\Oszto-Print.genruntimeconfig.cache
+C:\Users\Tanulo\Documents\GitHub\Y.N\25.10.08. aaf\Oszto-Print\obj\Debug\net8.0\ref\Oszto-Print.dll

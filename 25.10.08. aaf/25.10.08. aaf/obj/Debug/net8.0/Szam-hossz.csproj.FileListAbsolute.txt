@@ -1,0 +1,15 @@
+C:\Users\Tanulo\Documents\GitHub\Y.N\25.10.08. aaf\25.10.08. aaf\bin\Debug\net8.0\Szam-hossz.exe
+C:\Users\Tanulo\Documents\GitHub\Y.N\25.10.08. aaf\25.10.08. aaf\bin\Debug\net8.0\Szam-hossz.deps.json
+C:\Users\Tanulo\Documents\GitHub\Y.N\25.10.08. aaf\25.10.08. aaf\bin\Debug\net8.0\Szam-hossz.runtimeconfig.json
+C:\Users\Tanulo\Documents\GitHub\Y.N\25.10.08. aaf\25.10.08. aaf\bin\Debug\net8.0\Szam-hossz.dll
+C:\Users\Tanulo\Documents\GitHub\Y.N\25.10.08. aaf\25.10.08. aaf\bin\Debug\net8.0\Szam-hossz.pdb
+C:\Users\Tanulo\Documents\GitHub\Y.N\25.10.08. aaf\25.10.08. aaf\obj\Debug\net8.0\Szam-hossz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanulo\Documents\GitHub\Y.N\25.10.08. aaf\25.10.08. aaf\obj\Debug\net8.0\Szam-hossz.AssemblyInfoInputs.cache
+C:\Users\Tanulo\Documents\GitHub\Y.N\25.10.08. aaf\25.10.08. aaf\obj\Debug\net8.0\Szam-hossz.AssemblyInfo.cs
+C:\Users\Tanulo\Documents\GitHub\Y.N\25.10.08. aaf\25.10.08. aaf\obj\Debug\net8.0\Szam-hossz.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\Documents\GitHub\Y.N\25.10.08. aaf\25.10.08. aaf\obj\Debug\net8.0\Szam-hossz.sourcelink.json
+C:\Users\Tanulo\Documents\GitHub\Y.N\25.10.08. aaf\25.10.08. aaf\obj\Debug\net8.0\Szam-hossz.dll
+C:\Users\Tanulo\Documents\GitHub\Y.N\25.10.08. aaf\25.10.08. aaf\obj\Debug\net8.0\refint\Szam-hossz.dll
+C:\Users\Tanulo\Documents\GitHub\Y.N\25.10.08. aaf\25.10.08. aaf\obj\Debug\net8.0\Szam-hossz.pdb
+C:\Users\Tanulo\Documents\GitHub\Y.N\25.10.08. aaf\25.10.08. aaf\obj\Debug\net8.0\Szam-hossz.genruntimeconfig.cache
+C:\Users\Tanulo\Documents\GitHub\Y.N\25.10.08. aaf\25.10.08. aaf\obj\Debug\net8.0\ref\Szam-hossz.dll
