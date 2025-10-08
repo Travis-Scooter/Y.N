@@ -1,2 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("Adjon meg egy számot: ");
+int szam = int.Parse(Console.ReadLine());
+int hossz = 0;
+
+while (szam is not 0)
+{
+    szam /= 10;
+    hossz++;
+}
+
+Console.WriteLine($"\nHossz: {hossz}");
